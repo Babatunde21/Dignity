@@ -1,0 +1,111 @@
+*{
+  margin: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(24, 0, 1);
+}
+body{
+  background-color: whitesmoke;
+  text-align: justify;
+}
+.navigation{
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+  padding: 20px;
+
+}
+.dove a{
+  background-color: blue;
+  padding: 20px;
+  border-radius: 10px;
+}
+nav{
+  display: inline;
+  list-style-type: none;
+}
+h2{
+  padding-bottom: 10px;
+  text-align: center;
+  font-style: italic;
+}
+.dove a{
+  text-decoration: none;
+  margin-right: 24px;
+}
+.dove :hover{
+  text-decoration: none;
+  background-color: white;
+  color: red;
+  padding: 15px;
+  border-radius: 10px;
+}
+main{
+  padding: 20px;
+}
+#car{
+  margin: 0;
+  margin-top: -40px;
+  height: 700px;
+  background-size: cover;
+  margin-bottom: 40px;
+}
+footer{
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+footer p{
+  color: white;
+}
+p{
+  font-size: 20px;
+  font-weight: 400;
+  word-spacing: 2px;
+}
+ul{
+  font-size: 20px;
+  word-spacing: 2px;
+}
+.toy{
+  padding: 2px;
+  padding-top: 16px;
+  text-align: center;
+}
+h4{
+  padding-top: 16px;
+  color: black;
+  border-radius: 10px;
+  font-weight: 15px;
+  text-align: center;
+ }
+ .can{
+   padding-top: 18px;
+   text-align: justify;
+ }
+ .index{
+   text-align: center;
+ }
+ .dove :link{
+   color: blueviolet;
+ }
+ .dove :visited{
+   color:white ;
+ }
+ .dove :active{
+   color: crimson;
+ }
+
+ .form{
+   padding: 10px;
+ }
+
+ .lice{
+   padding: 10px;
+ }
+
+ input:hover{
+   background-color: blue;
+   color: white;
+   border-radius: 8px;
+ }
